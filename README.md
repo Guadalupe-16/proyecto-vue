@@ -1,3 +1,8 @@
+# Autor
+-Nombre: Guadalupe Amavizca Quintero
+-Email: a23311036@uthermosillo.edu.mx
+-GitHub: 
+
 # .
 
 This template should help get you started developing with Vue 3 in Vite.
