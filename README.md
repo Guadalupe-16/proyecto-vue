@@ -1,7 +1,7 @@
 # Autor
--Nombre: Guadalupe Amavizca Quintero
--Email: a23311036@uthermosillo.edu.mx
--GitHub: 
+# -Nombre: Guadalupe Amavizca Quintero
+# -Email: a23311036@uthermosillo.edu.mx
+# -GitHub: [Guadalupe16] (a23311036@uthermosillo.edu.mx)
 
 # .
 
